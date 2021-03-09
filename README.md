@@ -1,8 +1,8 @@
-#Karaf OSGI bundle example
+# Karaf OSGI bundle example
 
 A short OSGI example with two bundles.
 
-###Setting up the karaf environment
+### Setting up the karaf environment
 Download and unzip karaf 4.3.0 Start the server and the console using
 
 ```
