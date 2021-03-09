@@ -1,0 +1,1 @@
+#Karaf OSGI bundle example
